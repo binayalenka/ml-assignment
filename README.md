@@ -104,8 +104,8 @@ The deployed Streamlit app includes all required features:
 
 ```bash
 # Clone the repository
-git clone <your-github-repo-url>
-cd ML-Assignement
+git clone https://github.com/binayalenka/ml-assignment.git
+cd ml-assignment
 
 # Install dependencies
 pip install -r requirements.txt
