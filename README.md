@@ -151,8 +151,8 @@ ML-Assignement/
 
 ## Deployment Links
 
-- **GitHub Repository:** [Your GitHub URL will go here]
-- **Live Streamlit App:** [Your Streamlit Cloud URL will go here]
+- **GitHub Repository:** https://github.com/binayalenka/ml-assignment.git
+- **Live Streamlit App:** https://ml-assignmentgit-dixrxvmeqmtux3aqggb43j.streamlit.app/
 
 ## Technical Details
 
@@ -194,7 +194,7 @@ This project fulfills all requirements of ML Assignment 2:
 
 ## Author
 
-**M.Tech (AIML/DSE) Student**  
+**M.Tech (AIML/DSE) Student Binaya**  
 Work Integrated Learning Programmes Division  
 BITS Pilani
 
